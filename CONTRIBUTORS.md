@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Apoorv](https://github.com/apoorvcodes)
+- Place: varanasi, India
+- Bio: Web developer TypeScript and Vue
+- Github: [apoorvcodes](https://github.com/apoorvcodes)
